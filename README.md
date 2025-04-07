@@ -8,7 +8,7 @@ Los proyectos son los siguientes:
 
 ¿Estás aquí para crear un Issue o un Pull Request? ¡Puedes agregar tu participación en nuesta lista de contribuidores! Ve a este documento y agrega tus datos por medio de un PR.
 
-[Lista de contribuciones](contribuciones.md)
+[Lista de contribuciones](/Contribuciones.md)
 
 ## Plantilla web para presentación
 
